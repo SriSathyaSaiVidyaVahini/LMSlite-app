@@ -6,3 +6,4 @@ References:
 https://developer.chrome.com/docs/multidevice/webview/gettingstarted/
 https://developer.android.com/codelabs/basic-android-kotlin-training-change-app-icon#0
 https://developer.android.com/guide/webapps/webview.html#kotlin
+https://stackoverflow.com/questions/60641759/how-to-open-webview-links-within-app-android-kotlin
