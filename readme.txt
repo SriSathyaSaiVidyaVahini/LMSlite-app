@@ -2,7 +2,8 @@ A lite LMS app using Kotlin and WebView.
 
 Created in Android Studio 4.1.2
 
-Hitting Alt+Enter for modules not yet imported and highlighted in red automatically imports.
+Hitting Alt+Enter for modules not yet imported and highlighted in red
+automatically imports them in Android Studio, or gives other options.
 
 References:
 https://developer.chrome.com/docs/multidevice/webview/gettingstarted/
