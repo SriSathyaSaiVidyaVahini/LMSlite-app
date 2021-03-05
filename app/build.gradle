@@ -4,6 +4,14 @@ plugins {
 }
 
 android {
+    signingConfigs {
+        release {
+            storeFile file('/home/hari/upload-key.jks')
+            storePassword 'Sairam'
+            keyAlias 'upload'
+            keyPassword 'Sairam'
+        }
+    }
     compileSdkVersion 30
     buildToolsVersion "30.0.3"
 
