@@ -13,3 +13,4 @@ https://stackoverflow.com/questions/60641759/how-to-open-webview-links-within-ap
 https://stackoverflow.com/questions/40756794/ajax-not-working-in-android-webview
 https://www.c-sharpcorner.com/article/how-to-add-download-listener-to-webview-in-kotlin/
 https://devofandroid.blogspot.com/2018/02/downloading-file-from-android-webview.html
+https://stackoverflow.com/questions/2914105/what-is-install-parse-failed-no-certificates-error
