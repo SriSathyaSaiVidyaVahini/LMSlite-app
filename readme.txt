@@ -14,3 +14,12 @@ https://stackoverflow.com/questions/40756794/ajax-not-working-in-android-webview
 https://www.c-sharpcorner.com/article/how-to-add-download-listener-to-webview-in-kotlin/
 https://devofandroid.blogspot.com/2018/02/downloading-file-from-android-webview.html
 https://stackoverflow.com/questions/2914105/what-is-install-parse-failed-no-certificates-error
+
+Version 2
+-----------
+
+References:
+https://github.com/mgks/Kotlin-SmartWebView/blob/master/README.md
+https://www.mackenziesoftware.com/2017/05/android-studio-how-to-change-app-icon.html
+
+
