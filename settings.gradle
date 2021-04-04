@@ -1,1 +1,2 @@
 include ':app'
+rootProject.name = "Sri Sathya Sai Vidya Vahini LMS lite"
